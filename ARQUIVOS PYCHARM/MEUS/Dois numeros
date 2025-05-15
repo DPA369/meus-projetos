@@ -1,0 +1,5 @@
+Senac 190 Dilton Argolo
+#solicitando dados
+numero1 = int(input("informe o primeiro numero"))
+numero2 = int(input("informe o segundo numero"))
+print

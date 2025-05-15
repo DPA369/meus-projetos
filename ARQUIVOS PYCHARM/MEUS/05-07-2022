@@ -1,0 +1,8 @@
+#Senac 190 Dilton Argolo
+filme = 2012
+nota1 = 7.5 float
+#vou comprimentar quem estiver usando o programa
+usuario = input("informe o seu nome")
+o input pode ser "traduzido" como entrada de dados. Quando você quer solicitar uma informação
+o input pode ser usado
+print(usuario)
